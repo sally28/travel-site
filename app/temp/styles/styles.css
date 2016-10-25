@@ -1054,7 +1054,7 @@ Instead edit gulp/templates/sprite*/
 .site-footer__text {
   display:block;
   margin-bottom:1rem;
-  font-wight:200;
+  font-weight:200;
 }
 
 @media(min-width:800px) {
